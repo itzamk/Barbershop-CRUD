@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Apr 29 21:06:44 EDT 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-0180-7801-7a3e-00000dfbcb60 
+on database directory C:\Users\Andrew\Documents\School\PSU\cmps221\Proj3\airportcrud\BarberCRUD\fpbarberdb with class loader sun.misc.Launcher$AppClassLoader@28d93b30 
+Loaded from file:/C:/Users/Andrew/Documents/School/PSU/cmps221/Proj3/airportcrud/BarberCRUD/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_111-b14
+user.dir=C:\Users\Andrew\Documents\School\PSU\cmps221\Proj3\airportcrud\BarberCRUD
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
